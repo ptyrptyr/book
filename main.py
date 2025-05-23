@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+import time
 import schedule
 import datetime
 import json
@@ -11,14 +12,20 @@ from telegram.constants import ParseMode
 # --- Konfiguracja ---
 TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
-BOOKS_JSON_URL = os.getenv("BOOKS_JSON_URL")  # zewnętrzny plik JSON
+BOOKS_JSON_URL = os.getenv("BOOKS_JSON_URL")  # <- zdalny JSON
 CHECK_INTERVAL_MINUTES = 15
 DEBUG = True
 
-# Wczytaj dane z pliku JSON w chmurze
-response = requests.get(BOOKS_JSON_URL)
-BOOK_ITEMS = response.json()
+def load_books_from_url():
+    try:
+        response = requests.get(BOOKS_JSON_URL)
+        response.raise_for_status()
+        return response.json()
+    except Exception as e:
+        print(f"Błąd podczas wczytywania JSON z URL: {e}")
+        return []
 
+BOOK_ITEMS = load_books_from_url()
 notifications_sent_status = {item["url"]: False for item in BOOK_ITEMS}
 
 async def send_telegram_message(message):
@@ -60,8 +67,7 @@ async def check_single_book(book):
 
         if found:
             if not notifications_sent_status.get(book_url):
-                msg = f"🔔 Książka *'{book_name}'* JEST DOSTĘPNA w *{filia_name}*!
-[Link]({book_url})"
+                msg = f"🔔 Książka *'{book_name}'* JEST DOSTĘPNA w *{filia_name}*!\n[Link]({book_url})"
                 await send_telegram_message(msg)
                 notifications_sent_status[book_url] = True
         else:
