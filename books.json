@@ -93,5 +93,10 @@
         "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003208",
         "name": "Siostry Blue",
         "filia_name": "Filia 21 (ul. Królewska) - dorośli"
+    },
+    {
+        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr907015120",
+        "name": "Hiob : powieść o człowieku prostym",
+        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
     }
 ]
