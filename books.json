@@ -1,102 +1,142 @@
 [
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr10011565",
-        "name": "Na południe od Broad",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002317",
-        "name": "Żądło",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138976505066",
-        "name": "Orbita",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053120903905066",
-        "name": "Ptaki bez skrzydeł",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053137121705066",
-        "name": "Stolik dla dwojga",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136097605066",
-        "name": "Intermezzo",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
-        "name": "Duchy zostają",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25001765",
-        "name": "Cisza i gniew",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006071669",
-        "name": "Podniebie",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002147",
-        "name": "Ogród poza czasem",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002320",
-        "name": "Lekcje greki",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136310005066",
-        "name": "Pan Prezydent",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002577",
-        "name": "W stronę ciszy",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002814",
-        "name": "Wyprawy niedalekie",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002828",
-        "name": "Fizyka na tropie świadomości",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002729",
-        "name": "March",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138652905066",
-        "name": "Słuchajcie, jak kłamią",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003070",
-        "name": "Baumgartner",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003208",
-        "name": "Siostry Blue",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    },
-    {
-        "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr907015120",
-        "name": "Hiob : powieść o człowieku prostym",
-        "filia_name": "Filia 21 (ul. Królewska) - dorośli"
-    }
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr10011565",
+    "name": "Na południe od Broad",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "dostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002317",
+    "name": "Żądło",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138976505066",
+    "name": "Orbita",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053120903905066",
+    "name": "Ptaki bez skrzydeł",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "dostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053137121705066",
+    "name": "Stolik dla dwojga",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136097605066",
+    "name": "Intermezzo",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
+    "name": "Duchy zostają",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25001765",
+    "name": "Cisza i gniew",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006071669",
+    "name": "Podniebie",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002147",
+    "name": "Ogród poza czasem",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002320",
+    "name": "Lekcje greki",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136310005066",
+    "name": "Pan Prezydent",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002577",
+    "name": "W stronę ciszy",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002814",
+    "name": "Wyprawy niedalekie",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002828",
+    "name": "Fizyka na tropie świadomości",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002729",
+    "name": "March",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138652905066",
+    "name": "Słuchajcie, jak kłamią",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003070",
+    "name": "Baumgartner",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003208",
+    "name": "Siostry Blue",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "niedostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr907015120",
+    "name": "Hiob : powieść o człowieku prostym",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status": "dostępna",
+    "last_checked": "2025-05-27T20:13:05.067368+00:00"
+  }
 ]
