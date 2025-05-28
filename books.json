@@ -9,10 +9,10 @@
     "dostepna_do_wypozyczenia_f21": true,
     "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
     "status_weryfikacji_www": "sprawdzono_www_ok",
-    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "znaleziono_na_stronie_w_monitorowanej_filii": true,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "status_tekstowy_na_stronie_monitorowanej_filii": "Status niejednoznaczny na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002317",
@@ -26,8 +26,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138976505066",
@@ -41,8 +41,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053120903905066",
@@ -56,8 +56,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053137121705066",
@@ -71,8 +71,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136097605066",
@@ -86,8 +86,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
@@ -101,8 +101,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25001765",
@@ -116,8 +116,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006071669",
@@ -131,8 +131,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002147",
@@ -146,8 +146,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002320",
@@ -161,8 +161,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136310005066",
@@ -176,8 +176,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002577",
@@ -191,8 +191,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002814",
@@ -206,8 +206,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002828",
@@ -221,8 +221,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002729",
@@ -236,8 +236,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138652905066",
@@ -251,8 +251,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003070",
@@ -266,8 +266,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003208",
@@ -281,8 +281,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr907015120",
@@ -294,9 +294,9 @@
     "dostepna_do_wypozyczenia_f21": true,
     "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
     "status_weryfikacji_www": "sprawdzono_www_ok",
-    "znaleziono_na_stronie_w_monitorowanej_filii": false,
-    "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T06:05:48.762543+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono na stronie bloków z info o filiach."
+    "znaleziono_na_stronie_w_monitorowanej_filii": true,
+    "dostepna_wypozyczenie_monitorowana_filia": true,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
+    "status_tekstowy_na_stronie_monitorowanej_filii": "Są egzemplarze dostępne. 1 egz."
   }
 ]
