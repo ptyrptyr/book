@@ -298,5 +298,10 @@
     "dostepna_wypozyczenie_monitorowana_filia": true,
     "data_ostatniej_weryfikacji_www": "2025-05-28T20:35:58.456079+00:00",
     "status_tekstowy_na_stronie_monitorowanej_filii": "Są egzemplarze dostępne. 1 egz."
+  },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053076324505066",
+    "name": "Abakanowicz : trauma i sława",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli"
   }
 ]
