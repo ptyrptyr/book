@@ -7,7 +7,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "dostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": true,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002317",
@@ -17,7 +22,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138976505066",
@@ -27,7 +37,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053120903905066",
@@ -37,7 +52,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "dostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": true,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053137121705066",
@@ -47,7 +67,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136097605066",
@@ -57,7 +82,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
@@ -67,7 +97,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25001765",
@@ -77,7 +112,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006071669",
@@ -87,7 +127,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002147",
@@ -97,7 +142,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002320",
@@ -107,7 +157,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136310005066",
@@ -117,7 +172,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002577",
@@ -127,7 +187,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002814",
@@ -137,7 +202,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002828",
@@ -147,7 +217,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002729",
@@ -157,7 +232,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138652905066",
@@ -167,7 +247,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003070",
@@ -177,7 +262,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25003208",
@@ -187,7 +277,12 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KKr907015120",
@@ -197,6 +292,11 @@
     "last_checked": "2025-05-27T20:14:13.210248+00:00",
     "status_filii_21": "dostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
     "dostepna_do_wypozyczenia_f21": true,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00"
+    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
+    "status_weryfikacji_www": "blad_konfiguracji_json",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-05-28T05:58:34.779010+00:00",
+    "blad_weryfikacji_www": "Brak zdefiniowanej monitorowanej filii (klucz 'interesujaca_filia')"
   }
 ]
