@@ -75,20 +75,15 @@
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
-    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053136097605066",
-    "name": "Intermezzo",
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053139845505066",
+    "name": "Ewa : ewolucja jest kobietą",
     "filia_name": "Filia 21 (ul. Królewska) - dorośli",
-    "status": "niedostępna",
-    "last_checked": "2025-05-27T20:14:13.210248+00:00",
-    "status_filii_21": "niedostępna do wypożyczenia (Filia 21 (ul. Królewska) - dorośli)",
-    "dostepna_do_wypozyczenia_f21": false,
-    "ostatnio_sprawdzono_f21": "2025-05-28T05:49:06.433875+00:00",
-    "status_weryfikacji_www": "sprawdzono_www_ok",
-    "znaleziono_na_stronie_w_monitorowanej_filii": false,
-    "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
-    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
-  },
+       },
+  {
+    "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006140602",
+    "name": "Powrót pogubionych rzeczy",
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+       },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
     "name": "Duchy zostają",
