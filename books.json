@@ -11,7 +11,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": true,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "status_tekstowy_na_stronie_monitorowanej_filii": "Status niejednoznaczny na stronie."
   },
   {
@@ -26,7 +26,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -41,7 +41,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
@@ -56,7 +56,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
@@ -71,18 +71,28 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053139845505066",
     "name": "Ewa : ewolucja jest kobietą",
-    "filia_name": "Filia 21 (ul. Królewska) - dorośli"
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status_weryfikacji_www": "sprawdzono_www_ok",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=b1000006140602",
     "name": "Powrót pogubionych rzeczy",
-    "filia_name": "Filia 21 (ul. Królewska) - dorośli"
+    "filia_name": "Filia 21 (ul. Królewska) - dorośli",
+    "status_weryfikacji_www": "sprawdzono_www_ok",
+    "znaleziono_na_stronie_w_monitorowanej_filii": false,
+    "dostepna_wypozyczenie_monitorowana_filia": false,
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
+    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=991053138535605066",
@@ -96,7 +106,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
@@ -111,7 +121,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
@@ -126,7 +136,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -141,7 +151,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -156,7 +166,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -171,7 +181,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -186,7 +196,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -201,7 +211,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
@@ -216,8 +226,8 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
-    "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
+    "blad_weryfikacji_www": "Monitorowana filia 'Filia 21 (ul. Królewska) - dorośli' nie znaleziona na stronie."
   },
   {
     "url": "https://www.krakow-biblioteka.sowa.pl/index.php?KatID=0&typ=record&001=KrB25002729",
@@ -231,7 +241,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -246,7 +256,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -261,7 +271,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -276,7 +286,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": false,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "blad_weryfikacji_www": "Nie znaleziono bloków 'div.record-av-details-row'."
   },
   {
@@ -291,7 +301,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": true,
     "dostepna_wypozyczenie_monitorowana_filia": true,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "status_tekstowy_na_stronie_monitorowanej_filii": "Są egzemplarze dostępne. 1 egz."
   },
   {
@@ -301,7 +311,7 @@
     "status_weryfikacji_www": "sprawdzono_www_ok",
     "znaleziono_na_stronie_w_monitorowanej_filii": true,
     "dostepna_wypozyczenie_monitorowana_filia": false,
-    "data_ostatniej_weryfikacji_www": "2025-05-28T20:56:03.420560+00:00",
+    "data_ostatniej_weryfikacji_www": "2025-06-02T20:50:33.289703+00:00",
     "status_tekstowy_na_stronie_monitorowanej_filii": "Status niejednoznaczny na stronie."
   }
 ]
